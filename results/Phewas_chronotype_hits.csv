@@ -1,0 +1,187 @@
+Component chronotype,,,,
+MAX: inf,,,,
+N ABOVE BON (4.29):  161,,,,
+N ABOVE FDR (1.82):  294,,,,
+Fine Grain info above  Bon,,,,
+Printing out 161 hits,,,,
+Chronotype EARLY LIFE FACTORS  (1 hit(s)),,,,
+Phenotype name,Choices,ID,logarithmic scale of the P value,r value
+ 'Comparative body size at age 10 (0.0)'), '', '1687-0.0', '4.49',-0.025271737
+,,,,
+Chronotype LIFESTYLE-GENERAL FACTORS  (35 hit(s)),,,,
+ 'Leisure/social activities (0.0)'), '2', '6160-0.0', '26.62',0.065820552
+ 'Plays computer games (0.0)'), '', '2237-0.0', '20.72',0.057800646
+ 'How are people in household related to participant (0.0)'), '1', '6141-0.0', '15.14',-0.049030092
+ 'Own or rent accommodation lived in (0.0)'), '1.0', '680_1.0', '13.98',-0.047009611
+ 'Natural environment percentage  buffer 1000m (0.0)'), '', '24506-0.0', '11.71',-0.04278372
+ 'Own or rent accommodation lived in (0.0)'), '2.0', '680_2.0', '11.09',0.04157484
+ 'Illness  injury  bereavement  stress in last 2 years (0.0)'), '6', '6145-0.0', '10.80',0.040988972
+ 'Nitrogen dioxide air pollution; 2006 (0.0)'), '', '24017-0.0', '10.69',0.040759447
+ 'Nitrogen dioxide air pollution; 2007 (0.0)'), '', '24018-0.0', '10.44',0.040236906
+ 'Lifetime number of sexual partners (0.0)'), '', '2149-0.0', '10.00',0.039323826
+ 'Nitrogen dioxide air pollution; 2010 (0.0)'), '', '24003-0.0', '9.96',0.039243222
+ 'Nitrogen dioxide air pollution; 2005 (0.0)'), '', '24016-0.0', '9.82',0.03893434
+ 'Nitrogen oxides air pollution; 2010 (0.0)'), '', '24004-0.0', '9.53',0.038322863
+ 'Townsend deprivation index at recruitment (0.0)'), '', '189-0.0', '9.12',0.03740661
+ 'Current employment status (0.0)'), '4', '6142-0.0', '8.63',0.03630995
+ 'Natural environment percentage  buffer 300m (0.0)'), '', '24507-0.0', '8.44',-0.035882521
+ 'Greenspace percentage  buffer 1000m (0.0)'), '', '24500-0.0', '7.90',-0.034618107
+ 'Number of children fathered (0.0)'), '', '2405-0.0', '7.58',-0.033835383
+ 'Particulate matter air pollution (pm2.5); 2010 (0.0)'), '', '24006-0.0', '7.34',0.033234514
+ 'Particulate matter air pollution (pm10); 2007 (0.0)'), '', '24019-0.0', '7.01',0.03242125
+ 'Income score (England) (0.0)'), '', '26411-0.0', '6.69',0.031597882
+ 'Current employment status (0.0)'), '2', '6142-0.0', '6.55',-0.03124133
+ 'Mother still alive (0.0)'), '', '1835-0.0', '6.53',0.031188035
+ 'Index of Multiple Deprivation (England) (0.0)'), '', '26410-0.0', '6.41',0.030865737
+ 'Illness  bereavement  stress in last 2 years (0.0)'), '100', '6145-0.0', '6.31',-0.030600611
+ 'Particulate matter air pollution (pm2.5) absorbance; 2010 (0.0)'), '', '24007-0.0', '6.05',0.029879404
+ 'Living environment score (England) (0.0)'), '', '26417-0.0', '5.85',0.029339603
+ 'Verbal interview duration (0.0)'), '', '3-0.0', '5.71',0.028943186
+ 'Crime score (England) (0.0)'), '', '26416-0.0', '5.69',0.028877588
+ 'Type of accommodation lived in (0.0)'), '2.0', '670_2.0', '5.59',0.028611349
+ 'Type of accommodation lived in (0.0)'), '1.0', '670_1.0', '5.44',-0.028156906
+ 'Greenspace percentage  buffer 300m (0.0)'), '', '24503-0.0', '5.09',-0.027148691
+ 'Qualifications (0.0)'), '3', '6138-0.0', '4.53',0.025396092
+ 'Father still alive (0.0)'), '', '1797-0.0', '4.50',0.025308005
+ 'Health score (England) (0.0)'), '', '26413-0.0', '4.37',0.024890029
+,,,,
+ Chronotype LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (18 hit(s)),,,,
+ 'Getting up in morning (0.0)'), '', '1170-0.0', 'inf',-0.442364925
+ 'Number of days/week walked 10+ minutes (0.0)'), '', '864-0.0', '46.09',-0.08723225
+ 'Number of days/week of moderate physical activity 10+ minutes (0.0)'), '', '884-0.0', '31.03',-0.071237918
+ 'Number of days/week of vigorous physical activity 10+ minutes (0.0)'), '', '904-0.0', '24.57',-0.063155764
+ 'Drive faster than motorway speed limit (0.0)'), '', '1100-0.0', '23.28',0.061407235
+ 'Types of physical activity in last 4 weeks (0.0)'), '1', '6164-0.0', '21.11',-0.058364879
+ 'Duration of walks (0.0)'), '', '874-0.0', '18.45',-0.054397692
+ 'Usual walking pace (0.0)'), '', '924-0.0', '15.13',-0.049016898
+ 'Frequency of walking for pleasure in last 4 weeks (0.0)'), '', '971-0.0', '9.92',-0.039145944
+ 'Time spent watching television (TV) (0.0)'), '', '1070-0.0', '8.55',0.036135557
+ 'Types of physical activity in last 4 weeks (0.0)'), '100', '6164-0.0', '8.03',0.034930726
+ 'Time spent using computer (0.0)'), '', '1080-0.0', '7.87',0.034548429
+ 'Types of transport used (excluding work) (0.0)'), '2', '6162-0.0', '7.54',-0.033728733
+ 'Types of physical activity in last 4 weeks (0.0)'), '2', '6164-0.0', '7.47',-0.033571618
+ 'Duration of moderate activity (0.0)'), '', '894-0.0', '7.17',-0.032811713
+ 'Job involves mainly walking or standing (0.0)'), '', '806-0.0', '6.74',-0.031726889
+ 'Weekly usage of mobile phone in last 3 months (0.0)'), '', '1120-0.0', '6.12',0.030074347
+ 'Snoring (0.0)'), '', '1210-0.0', '4.88',0.026498873
+,,,,
+ Chronotype LIFESTYLE AND ENVIRONMENT - ALCOHOL  (8 hit(s)),,,,
+ 'Frequency of consuming six or more units of alcohol (0.0)'), '', '20416-0.0', '16.94',0.052019923
+ 'Amount of alcohol drunk on a typical drinking day (0.0)'), '', '20403-0.0', '9.89',0.039087726
+ 'Average weekly beer plus cider intake (0.0)'), '', '1588-0.0', '9.82',0.038946603
+ 'Ever had known person concerned about  or recommend reduction of alcohol consumption (0.0)'), '0.0', '20405_0.0', '7.24',-0.032998368
+ 'Alcohol usually taken with meals (0.0)'), '', '1618-0.0', '7.14',-0.03273487
+ 'Reason for reducing amount of alcohol drunk (0.0)'), '3.0', '2664_3.0', '5.07',-0.02708759
+ 'Alcohol intake frequency. (0.0)'), '', '1558-0.0', '4.92',0.026620474
+ 'Ever had known person concerned about  or recommend reduction of  alcohol consumption (0.0)'), '2.0', '20405_2.0', '4.50',0.025303714
+,,,,
+ Chronotype LIFESTYLE AND ENVIRONMENT - TOBACCO  (9 hit(s)),,,,
+ 'Smoking status (0.0)'), '2.0', '20116_2.0', '38.58',0.079659257
+ 'Type of tobacco currently smoked (0.0)'), '1.0', '3446_1.0', '34.06',0.074727377
+ 'Current tobacco smoking (0.0)'), '', '1239-0.0', '25.28',0.064081584
+ 'Tobacco smoking (0.0)'), '3.0', '22506_3.0', '16.67',0.051583694
+ 'Smoking status (0.0)'), '0.0', '20116_0.0', '13.07',-0.045367978
+ 'Ever smoked (0.0)'), '', '20160-0.0', '12.78',0.044825962
+ 'Tobacco smoking (0.0)'), '0.0', '22506_0.0', '8.18',-0.035264251
+ 'Past tobacco smoking (0.0)'), '', '1249-0.0', '8.05',-0.034964336
+ 'Type of tobacco currently smoked (0.0)'), '2.0', '3446_2.0', '6.04',0.029865539
+,,,,
+ Chronotype PHYSICAL MEASURES - GENERAL  (10 hit(s)),,,,
+ 'Weight (pre-imaging) (2.0)'), '', '12143-2.0', '17.93',0.053585782
+ 'Waist circumference (0.0)'), '', '48-0.0', '9.83',0.03896567
+ 'Hip circumference (0.0)'), '', '49-0.0', '8.72',0.036521228
+ 'Body mass index (BMI) (0.0)'), '', '21001-0.0', '8.56',0.036160587
+ 'Arm fat mass (right) (0.0)'), '', '23120-0.0', '8.39',0.035764258
+ 'Trunk fat mass (0.0)'), '', '23128-0.0', '6.90',0.032147907
+ 'Weight (0.0)'), '', '21002-0.0', '6.88',0.032098185
+ 'Whole body water mass (2.0)'), '', '23102-2.0', '6.10',0.030034873
+ 'Whole body fat mass (0.0)'), '', '23100-0.0', '5.26',0.027639587
+ 'Weight change compared with 1 year ago (0.0)'), '', '2306-0.0', '4.39',0.024953974
+,,,,
+ Chronotype PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s)),,,,
+ 'Ventricular rate (2.0)'), '', '12336-2.0', '11.24',0.04186775
+,,,,
+ Chronotype - BLOOD ASSAYS  (14 hit(s)),,,,
+ 'Vitamin D (0.0)'), '', '30890-0.0', '16.70',-0.051639879
+ 'SHBG (0.0)'), '', '30830-0.0', '9.48',-0.038202901
+ 'High light scatter reticulocyte count (0.0)'), '', '30300-0.0', '8.72',0.036528014
+ 'HDL cholesterol (0.0)'), '', '30760-0.0', '8.51',-0.036037759
+ 'Urea (0.0)'), '', '30670-0.0', '8.43',-0.035847616
+ 'Apolipoprotein A (0.0)'), '', '30630-0.0', '8.36',-0.035702538
+ 'C-reactive protein (0.0)'), '', '30710-0.0', '7.77',0.03428856
+ 'Triglycerides (0.0)'), '', '30870-0.0', '7.53',0.033724488
+ 'Reticulocyte count (0.0)'), '', '30250-0.0', '7.52',0.033687494
+ 'Reticulocyte percentage (0.0)'), '', '30240-0.0', '7.48',0.033587266
+ 'High light scatter reticulocyte percentage (0.0)'), '', '30290-0.0', '7.15',0.032768412
+ 'Phosphate (0.0)'), '', '30810-0.0', '6.88',-0.032094824
+ 'Gamma glutamyltransferase (0.0)'), '', '30730-0.0', '6.80',0.031872516
+ 'Immature reticulocyte fraction (0.0)'), '', '30280-0.0', '6.44',0.030943316
+,,,,
+ Chronotype - COGNITIVE PHENOTYPES  (9 hit(s)),,,,
+ 'Touchscreen duration (0.0)'), '', '630-0.0', '12.98',0.045208234
+ 'Number of puzzles correctly solved (2.0)'), '', '6373-2.0', '10.79',0.0409535
+ 'Time to complete round (0.1)'), '', '400-0.1', '6.02',-0.029807813
+ 'Mean time to correctly identify matches (0.0)'), '', '20023-0.0', '5.43',-0.028144884
+ 'Interval between previous point and current one in alphanumeric path (trail #2) (2.0)'), '', '6773-2.0', '5.16',-0.027332633
+ 'n/a (2.0)'), '', '6382-2.0', '5.08',0.027107104
+ 'Duration to first press of snap-button in each round (0.0)'), '', '404-0.0', '4.84',-0.026365227
+ 'Time number displayed for (2.0)'), '', '4253-2.0', '4.77',0.026151837
+ 'Number of incorrect matches in round (0.1)'), '', '399-0.1', '4.46',-0.025196705
+,,,,
+ Chronotype - MENTAL HEALTH SELF-REPORT  (56 hit(s)),,,,
+ 'Frequency of tiredness / lethargy in last 2 weeks (0.0)'), '', '2080-0.0', '40.41',0.081574314
+ 'Fed-up feelings (0.0)'), '', '1960-0.0', '29.65',0.069593284
+ 'Frequency of unenthusiasm / disinterest in last 2 weeks (0.0)'), '', '2060-0.0', '28.59',0.068289349
+ 'General happiness with own health (0.0)'), '', '20459-0.0', '26.45',0.06560617
+ 'Irritability (0.0)'), '', '1940-0.0', '24.14',0.062570963
+ 'Miserableness (0.0)'), '', '1930-0.0', '23.28',0.061409703
+ 'Frequency of depressed mood in last 2 weeks (0.0)'), '', '2050-0.0', '22.79',0.060738645
+ 'Recent feelings of tiredness or low energy (0.0)'), '', '20519-0.0', '21.48',0.058886348
+ 'General happiness (0.0)'), '', '20458-0.0', '20.15',0.0569633
+ 'Belief that own life is meaningful (0.0)'), '', '20460-0.0', '19.91',-0.056615052
+ 'Mood swings (0.0)'), '', '1920-0.0', '14.59',0.04808595
+ 'Recent lack of interest or pleasure in doing things (0.0)'), '', '20514-0.0', '12.64',0.044576838
+ 'Frequency of tenseness / restlessness in last 2 weeks (0.0)'), '', '2070-0.0', '12.10',0.043550945
+ 'Ever taken cannabis (0.0)'), '', '20453-0.0', '12.00',0.043346925
+ 'Loneliness  isolation (0.0)'), '', '2020-0.0', '11.61',0.042592249
+ 'Recent feelings of inadequacy (0.0)'), '', '20507-0.0', '10.98',0.041333905
+ 'Recent poor appetite or overeating (0.0)'), '', '20511-0.0', '10.88',0.041138385
+ 'Recent feelings of depression (0.0)'), '', '20510-0.0', '10.52',0.040403608
+ 'Substances taken for depression (0.1)'), '3', '20546-0.1', '10.35',0.040049491
+ 'Neuroticism score (0.0)'), '', '20127-0.0', '10.07',0.03947714
+ 'Victim of physically violent crime (0.0)'), '0.0', '20529_0.0', '9.74',-0.038759248
+ 'Waking too early (0.0)'), '', '20535-0.0', '9.62',-0.038504468
+ 'Seen doctor (GP) for nerves anxiety  tension or depression (0.0)'), '', '2090-0.0', '9.40',0.038023173
+ 'Ever thought that life not worth living (0.0)'), '', '20479-0.0', '8.80',0.036694537
+ 'Happiness (0.0)'), '', '4526-0.0', '8.18',0.035279649
+ 'Ever had prolonged feelings of sadness or depression (0.0)'), '', '20446-0.0', '7.92',0.034652546
+ 'Activities undertaken to treat depression (0.1)'), '1', '20547-0.1', '7.72',0.034173437
+ 'Mental health problems ever diagnosed by a professional (0.1)'), '11', '20544-0.1', '7.70',0.034136923
+ 'Sleeping too much (0.0)'), '', '20534-0.0', '7.23',0.032971238
+ 'Victim of physically violent crime (0.0)'), '1.0', '20529_1.0', '7.11',0.032680822
+ 'Ever had period extreme irritability (0.0)'), '', '20502-0.0', '6.75',0.031753895
+ 'Mental health problems ever diagnosed by a professional (0.1)'), '6', '20544-0.1', '6.36',0.030721544
+ 'Financial situation satisfaction (0.0)'), '', '4581-0.0', '6.28',0.03052102
+ 'Recent trouble concentrating on things (0.0)'), '', '20508-0.0', '6.09',0.030001289
+ 'Family relationship satisfaction (0.0)'), '', '4559-0.0', '6.04',0.029867731
+ 'Ever had prolonged loss of interest in normal activities (0.0)'), '', '20441-0.0', '6.04',0.029854601
+ 'Ever felt worried  tense  or anxious for most of a month or longer (0.0)'), '', '20421-0.0', '5.80',0.029187292
+ 'Substances taken for depression (0.1)'), '4', '20546-0.1', '5.75',0.029046571
+ 'Ever contemplated self-harm (0.0)'), '', '20485-0.0', '5.59',0.028605435
+ 'Activities undertaken to treat anxiety (0.1)'), '1', '20550-0.1', '5.57',0.028542538
+ 'Seen a psychiatrist for nerves  anxiety  tension or depression (0.0)'), '', '2100-0.0', '5.48',0.028281403
+ 'Ever suffered mental distress preventing usual activities (0.0)'), '', '20500-0.0', '5.42',0.028109911
+ 'Ever worried more than most people would in similar situation (0.0)'), '', '20425-0.0', '5.30',0.027748308
+ 'Felt loved as a child (0.0)'), '', '20489-0.0', '5.20',-0.02745616
+ 'Victim of sexual assault (0.0)'), '0.0', '20531_0.0', '5.11',-0.02719097
+ 'Been in serious accident believed to be life-threatening (0.0)'), '0.0', '20526_0.0', '5.07',-0.027077598
+ 'Health satisfaction (0.0)'), '', '4548-0.0', '4.94',0.026672718
+ 'Ever addicted to any substance or behaviour (0.0)'), '', '20401-0.0', '4.88',0.026495678
+ 'Substances taken for anxiety (0.1)'), '3', '20549-0.1', '4.75',0.026082472
+ 'Mental health problems ever diagnosed by a professional (0.1)'), '7', '20544-0.1', '4.72',0.025997953
+ 'Risk taking (0.0)'), '', '2040-0.0', '4.59',0.025593699
+" ""Suffer from 'nerves' (0.0)"")", '', '2010-0.0', '4.47',0.025206824
+ 'Substances taken for anxiety (0.1)'), '4', '20549-0.1', '4.45',0.025134726
+ 'Impact on normal roles during worst period of depression (0.0)'), '', '20440-0.0', '4.42',0.025067848
+ 'Repeated disturbing thoughts of stressful experience in past month (0.0)'), '', '20497-0.0', '4.41',0.025018133
+ 'Recent feelings of foreboding (0.0)'), '', '20512-0.0', '4.41',0.025008901
