@@ -1,8 +1,7 @@
 # Code supplement to Chronotype_Neurobiological_Basis Study
 
-This repository contains the code used to analysis the data presented in the "On the Neurobiological Basis of Chronotype:
-Insights from a Multimodal Population Neuroscience Study" paper.
-Current citation: https://doi.org/10.21203/rs.3.rs-4095105/v1
+This repository contains the code used to analysis the data presented in the "Multimodal population study reveals the neurobiological underpinnings of chronotype" paper.
+Current citation: https://doi.org/10.1038/s41562-025-02182-w
 
 Scripts are saved in `scrpit/` folder：
 1. `LDA_analysis.ipynb` is an analysis scripts to investigate the multivariate brain patterns linked to chronotype.
